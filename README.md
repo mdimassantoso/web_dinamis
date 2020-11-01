@@ -4,3 +4,6 @@ tugas 2
 
 tugas 3
 ![image](https://user-images.githubusercontent.com/73783189/97809136-c249ed00-1c9d-11eb-96a8-6ce0ec319f71.png)
+
+tugas 1
+![image](https://user-images.githubusercontent.com/73783189/97809220-4ac88d80-1c9e-11eb-8247-93cb4f5668c6.png)
